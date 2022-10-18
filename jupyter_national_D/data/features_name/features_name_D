@@ -1,0 +1,37 @@
+0
+NO2
+Wind Speed
+CO
+PM2.5
+Air Temp
+Wind Dire
+AQI
+SCTC
+PM10
+Sea Level Pres
+SO2
+O3
+Elev
+dist
+Dew Point Temp
+NO2-d
+NO2-2d
+NO2-3d
+year
+month
+day
+day_of_week
+week
+day_of_year
+is_weekend
+season
+lon
+lat
+lon_m
+lat_m
+dis_pop
+people_density
+road_density
+PBLH
+HLML
+QSH
